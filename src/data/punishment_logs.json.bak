@@ -1,0 +1,14 @@
+{
+  "1307046577587617794": {
+    "warns": [],
+    "mutes": [
+      {
+        "moderator": "jellyfish.j",
+        "reason": "0h test",
+        "timestamp": "3/18/2026, 4:10:02 PM",
+        "duration": "Permanent"
+      }
+    ],
+    "bans": []
+  }
+}

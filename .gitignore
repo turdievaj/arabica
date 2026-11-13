@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.save
+*.save.*
+user-stats.json
+balances.json
+focus_sessions.json
+focus_stats.json
